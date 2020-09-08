@@ -1,0 +1,28 @@
+{
+  "name": "personal-finance",
+  "version": "1.0.0",
+  "description": "Desafio final do Bootcamp Online 2020 - Desenvolvedor Full Stack, realizado pelo IGTI.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjambrosi/personal-finance.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "javascript",
+    "bootcamp",
+    "api",
+    "igti",
+    "challenge."
+  ],
+  "author": "Cristian J. Ambrosi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjambrosi/personal-finance/issues"
+  },
+  "homepage": "https://github.com/cjambrosi/personal-finance#readme"
+}
