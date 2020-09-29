@@ -14,7 +14,7 @@
 
 Desafio final do Bootcamp Online 2020 - Desenvolvedor Full Stack, realizado pelo [IGTI](https://www.igti.com.br).
 
-Utilizando **ReactJS**, **NodeJS** e o **MongoDB**, desenvolver um App para Controle Financeiro Pessoal com deploy automatizado no **Heroku**.
+Utilizando **[ReactJS](https://pt-br.reactjs.org)**, **[NodeJS](https://nodejs.org/en/)** e o **[MongoDB](https://www.mongodb.com/cloud/atlas)**, desenvolver um App para Controle Financeiro Pessoal com deploy automatizado no **[Heroku](https://www.heroku.com)**.
 
 ## Autor
 

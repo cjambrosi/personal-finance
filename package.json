@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/cjambrosi/personal-finance/issues"
   },
-  "homepage": "https://github.com/cjambrosi/personal-finance#readme"
+  "homepage": "https://github.com/cjambrosi/personal-finance#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
 }
